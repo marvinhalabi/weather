@@ -1,0 +1,10 @@
+
+streamlit
+pandas
+requests
+matplotlib
+python-dotenv
+pytz
+timezonefinder
+streamlit-searchbox
+streamlit-extras
