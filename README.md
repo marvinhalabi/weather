@@ -82,7 +82,7 @@ Make sure to configure the following environment variables:
 
 ## Screenshots
 
-![Weather App Screenshot](path-to-screenshot)
+![Weather App Screenshot]("C:\Users\Marvin Halabi\Downloads\weathernews-ezgif.com-optimize.gif")
 
 ## License
 
