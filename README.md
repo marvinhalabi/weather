@@ -1,4 +1,4 @@
-# Weather App :sun_with_face:
+# Weather + News App :sun_with_face:
 
 A Streamlit application that provides current weather information and the latest news for any city worldwide. The app retrieves data from Open-Meteo and news articles using the NewsData.io API.
 
@@ -82,7 +82,7 @@ Make sure to configure the following environment variables:
 
 ## Screenshots
 
-![Weather App Screenshot]("C:\Users\Marvin Halabi\Downloads\weathernews-ezgif.com-optimize.gif")
+![Weather App Screenshot]("weather-news-screen.gif")
 
 ## License
 
