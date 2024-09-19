@@ -82,7 +82,7 @@ Make sure to configure the following environment variables:
 
 ## Screenshots
 
-![Weather App Screenshot]("weather-news-screen.gif")
+![Weather News GIF](weather-news-screen.gif)
 
 ## License
 
